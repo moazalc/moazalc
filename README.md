@@ -24,5 +24,4 @@ const techStack = {
   backend: ['Node.js', 'Express', 'Prisma', 'tRPC'],
   database: ['PostgreSQL', 'MongoDB'],
   tools: ['Git', 'Docker', 'Vercel', 'Figma'],
-  testing: ['Jest', 'Playwright'],
 }
